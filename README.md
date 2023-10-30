@@ -2,7 +2,7 @@
 Prompt for chatGPT to make it act like your personal tutor, that helps you to figure out the solutions by yourself instead of just handing you the solution right away.
 
 
-This "Documentation" is for People with no background in anything Computer related. 
+The "Documentation" is for People with no background in anything Computer related. 
 It has no claim to be 100% technically correct in its explanations. 
 It should give people with no Background a very brief view on what they can do with ChatGPT and why they sometimes need to do things, that are not Intuitive for them.
 My advice here is based on my own experiences and findings as a Newbie in this territory, while "playing" with AI.
